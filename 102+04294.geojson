@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-80.19611354067354,25.78691609712026,0],[-80.19775824689386,25.78770061412176,0],[-80.19861137928052,25.78808627548,0]]},"properties":{"name":"102+04294","tessellate":true}}
+]}
